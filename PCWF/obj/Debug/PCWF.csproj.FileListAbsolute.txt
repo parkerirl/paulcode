@@ -1,0 +1,9 @@
+C:\Users\Parker\source\repos\PCWF\bin\Debug\PCWF.exe.config
+C:\Users\Parker\source\repos\PCWF\bin\Debug\PCWF.exe
+C:\Users\Parker\source\repos\PCWF\bin\Debug\PCWF.pdb
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.csprojAssemblyReference.cache
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.Form1.resources
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.Properties.Resources.resources
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.csproj.GenerateResource.cache
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.exe
+C:\Users\Parker\source\repos\PCWF\obj\Debug\PCWF.pdb
